@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# - Unity\\Bai_2_buoi_2\\Bai_2_buoi_2\\Bai_2_buoi_2.csproj": {}
+    "D:\\C# - Unity\\BTVN buổi 2\\Bai_2_buoi_2\\Bai_2_buoi_2\\Bai_2_buoi_2.csproj": {}
   },
   "projects": {
-    "D:\\C# - Unity\\Bai_2_buoi_2\\Bai_2_buoi_2\\Bai_2_buoi_2.csproj": {
+    "D:\\C# - Unity\\BTVN buổi 2\\Bai_2_buoi_2\\Bai_2_buoi_2\\Bai_2_buoi_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# - Unity\\Bai_2_buoi_2\\Bai_2_buoi_2\\Bai_2_buoi_2.csproj",
+        "projectUniqueName": "D:\\C# - Unity\\BTVN buổi 2\\Bai_2_buoi_2\\Bai_2_buoi_2\\Bai_2_buoi_2.csproj",
         "projectName": "Bai_2_buoi_2",
-        "projectPath": "D:\\C# - Unity\\Bai_2_buoi_2\\Bai_2_buoi_2\\Bai_2_buoi_2.csproj",
+        "projectPath": "D:\\C# - Unity\\BTVN buổi 2\\Bai_2_buoi_2\\Bai_2_buoi_2\\Bai_2_buoi_2.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\C# - Unity\\Bai_2_buoi_2\\Bai_2_buoi_2\\obj\\",
+        "outputPath": "D:\\C# - Unity\\BTVN buổi 2\\Bai_2_buoi_2\\Bai_2_buoi_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
