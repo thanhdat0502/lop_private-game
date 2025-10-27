@@ -1,9 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C# - Unity\\BTVN bu\u1ED5i 2\\Bai_2_buoi_2\\",
+  "WorkspaceRootPath": "D:\\C# - Unity\\Bai_2_buoi_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# - Unity\\Bai_2_buoi_2\\Bai_2_buoi_2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C89F320-96AE-4F66-A082-03D4D3314D6C}|Bai_2_buoi_2\\Bai_2_buoi_2.csproj|d:\\c# - unity\\bai_2_buoi_2\\bai_2_buoi_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C89F320-96AE-4F66-A082-03D4D3314D6C}|Bai_2_buoi_2\\Bai_2_buoi_2.csproj|solutionrelative:bai_2_buoi_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +21,13 @@
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C# - Unity\\Bai_2_buoi_2\\Bai_2_buoi_2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\Bai_2_buoi_2\\Bai_2_buoi_2\\Program.cs",
+              "RelativeDocumentMoniker": "Bai_2_buoi_2\\Program.cs",
               "ToolTip": "D:\\C# - Unity\\Bai_2_buoi_2\\Bai_2_buoi_2\\Program.cs",
-              "RelativeToolTip": "..\\..\\Bai_2_buoi_2\\Bai_2_buoi_2\\Program.cs",
+              "RelativeToolTip": "Bai_2_buoi_2\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T03:27:17.535Z"
+              "WhenOpened": "2025-10-27T03:57:47.232Z",
+              "EditorCaption": ""
             }
           ]
         }
