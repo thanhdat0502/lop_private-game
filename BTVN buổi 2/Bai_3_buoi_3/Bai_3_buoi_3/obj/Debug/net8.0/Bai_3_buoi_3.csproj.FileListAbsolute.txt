@@ -1,0 +1,15 @@
+D:\C# - Unity\Bai_3_buoi_3\Bai_3_buoi_3\bin\Debug\net8.0\Bai_3_buoi_3.exe
+D:\C# - Unity\Bai_3_buoi_3\Bai_3_buoi_3\bin\Debug\net8.0\Bai_3_buoi_3.deps.json
+D:\C# - Unity\Bai_3_buoi_3\Bai_3_buoi_3\bin\Debug\net8.0\Bai_3_buoi_3.runtimeconfig.json
+D:\C# - Unity\Bai_3_buoi_3\Bai_3_buoi_3\bin\Debug\net8.0\Bai_3_buoi_3.dll
+D:\C# - Unity\Bai_3_buoi_3\Bai_3_buoi_3\bin\Debug\net8.0\Bai_3_buoi_3.pdb
+D:\C# - Unity\Bai_3_buoi_3\Bai_3_buoi_3\obj\Debug\net8.0\Bai_3_buoi_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Unity\Bai_3_buoi_3\Bai_3_buoi_3\obj\Debug\net8.0\Bai_3_buoi_3.AssemblyInfoInputs.cache
+D:\C# - Unity\Bai_3_buoi_3\Bai_3_buoi_3\obj\Debug\net8.0\Bai_3_buoi_3.AssemblyInfo.cs
+D:\C# - Unity\Bai_3_buoi_3\Bai_3_buoi_3\obj\Debug\net8.0\Bai_3_buoi_3.csproj.CoreCompileInputs.cache
+D:\C# - Unity\Bai_3_buoi_3\Bai_3_buoi_3\obj\Debug\net8.0\Bai_3_buoi_3.sourcelink.json
+D:\C# - Unity\Bai_3_buoi_3\Bai_3_buoi_3\obj\Debug\net8.0\Bai_3_buoi_3.dll
+D:\C# - Unity\Bai_3_buoi_3\Bai_3_buoi_3\obj\Debug\net8.0\refint\Bai_3_buoi_3.dll
+D:\C# - Unity\Bai_3_buoi_3\Bai_3_buoi_3\obj\Debug\net8.0\Bai_3_buoi_3.pdb
+D:\C# - Unity\Bai_3_buoi_3\Bai_3_buoi_3\obj\Debug\net8.0\Bai_3_buoi_3.genruntimeconfig.cache
+D:\C# - Unity\Bai_3_buoi_3\Bai_3_buoi_3\obj\Debug\net8.0\ref\Bai_3_buoi_3.dll
