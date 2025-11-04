@@ -1,0 +1,15 @@
+D:\C# - Unity\BTVN buổi 3\Bài 3\Bài 3\bin\Debug\net8.0\Bài 3.exe
+D:\C# - Unity\BTVN buổi 3\Bài 3\Bài 3\bin\Debug\net8.0\Bài 3.deps.json
+D:\C# - Unity\BTVN buổi 3\Bài 3\Bài 3\bin\Debug\net8.0\Bài 3.runtimeconfig.json
+D:\C# - Unity\BTVN buổi 3\Bài 3\Bài 3\bin\Debug\net8.0\Bài 3.dll
+D:\C# - Unity\BTVN buổi 3\Bài 3\Bài 3\bin\Debug\net8.0\Bài 3.pdb
+D:\C# - Unity\BTVN buổi 3\Bài 3\Bài 3\obj\Debug\net8.0\Bài 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Unity\BTVN buổi 3\Bài 3\Bài 3\obj\Debug\net8.0\Bài 3.AssemblyInfoInputs.cache
+D:\C# - Unity\BTVN buổi 3\Bài 3\Bài 3\obj\Debug\net8.0\Bài 3.AssemblyInfo.cs
+D:\C# - Unity\BTVN buổi 3\Bài 3\Bài 3\obj\Debug\net8.0\Bài 3.csproj.CoreCompileInputs.cache
+D:\C# - Unity\BTVN buổi 3\Bài 3\Bài 3\obj\Debug\net8.0\Bài 3.sourcelink.json
+D:\C# - Unity\BTVN buổi 3\Bài 3\Bài 3\obj\Debug\net8.0\Bài 3.dll
+D:\C# - Unity\BTVN buổi 3\Bài 3\Bài 3\obj\Debug\net8.0\refint\Bài 3.dll
+D:\C# - Unity\BTVN buổi 3\Bài 3\Bài 3\obj\Debug\net8.0\Bài 3.pdb
+D:\C# - Unity\BTVN buổi 3\Bài 3\Bài 3\obj\Debug\net8.0\Bài 3.genruntimeconfig.cache
+D:\C# - Unity\BTVN buổi 3\Bài 3\Bài 3\obj\Debug\net8.0\ref\Bài 3.dll
