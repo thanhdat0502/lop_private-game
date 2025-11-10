@@ -1,0 +1,5 @@
+D:\C# - Unity\BTVN buổi 3\BTVN\BTVN\obj\Debug\net8.0\BTVN.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Unity\BTVN buổi 3\BTVN\BTVN\obj\Debug\net8.0\BTVN.AssemblyInfoInputs.cache
+D:\C# - Unity\BTVN buổi 3\BTVN\BTVN\obj\Debug\net8.0\BTVN.AssemblyInfo.cs
+D:\C# - Unity\BTVN buổi 3\BTVN\BTVN\obj\Debug\net8.0\BTVN.csproj.CoreCompileInputs.cache
+D:\C# - Unity\BTVN buổi 3\BTVN\BTVN\obj\Debug\net8.0\BTVN.sourcelink.json
