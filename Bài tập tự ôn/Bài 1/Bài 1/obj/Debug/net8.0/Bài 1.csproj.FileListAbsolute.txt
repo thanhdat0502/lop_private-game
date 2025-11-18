@@ -1,0 +1,15 @@
+D:\C# - Unity\Bài tập tự ôn\Bài 1\Bài 1\obj\Debug\net8.0\Bài 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Unity\Bài tập tự ôn\Bài 1\Bài 1\obj\Debug\net8.0\Bài 1.AssemblyInfoInputs.cache
+D:\C# - Unity\Bài tập tự ôn\Bài 1\Bài 1\obj\Debug\net8.0\Bài 1.AssemblyInfo.cs
+D:\C# - Unity\Bài tập tự ôn\Bài 1\Bài 1\obj\Debug\net8.0\Bài 1.csproj.CoreCompileInputs.cache
+D:\C# - Unity\Bài tập tự ôn\Bài 1\Bài 1\obj\Debug\net8.0\Bài 1.sourcelink.json
+D:\C# - Unity\Bài tập tự ôn\Bài 1\Bài 1\bin\Debug\net8.0\Bài 1.exe
+D:\C# - Unity\Bài tập tự ôn\Bài 1\Bài 1\bin\Debug\net8.0\Bài 1.deps.json
+D:\C# - Unity\Bài tập tự ôn\Bài 1\Bài 1\bin\Debug\net8.0\Bài 1.runtimeconfig.json
+D:\C# - Unity\Bài tập tự ôn\Bài 1\Bài 1\bin\Debug\net8.0\Bài 1.dll
+D:\C# - Unity\Bài tập tự ôn\Bài 1\Bài 1\bin\Debug\net8.0\Bài 1.pdb
+D:\C# - Unity\Bài tập tự ôn\Bài 1\Bài 1\obj\Debug\net8.0\Bài 1.dll
+D:\C# - Unity\Bài tập tự ôn\Bài 1\Bài 1\obj\Debug\net8.0\refint\Bài 1.dll
+D:\C# - Unity\Bài tập tự ôn\Bài 1\Bài 1\obj\Debug\net8.0\Bài 1.pdb
+D:\C# - Unity\Bài tập tự ôn\Bài 1\Bài 1\obj\Debug\net8.0\Bài 1.genruntimeconfig.cache
+D:\C# - Unity\Bài tập tự ôn\Bài 1\Bài 1\obj\Debug\net8.0\ref\Bài 1.dll
