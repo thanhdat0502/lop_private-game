@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# - Unity\\Ki\u1EC3m Tra\\B\u00E0i 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95050F83-BD76-43A0-A04A-E729AECA296A}|B\u00E0i 1\\B\u00E0i 1.csproj|d:\\c# - unity\\ki\u1EC3m tra\\b\u00E0i 1\\b\u00E0i 1\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95050F83-BD76-43A0-A04A-E729AECA296A}|B\u00E0i 1\\B\u00E0i 1.csproj|solutionrelative:b\u00E0i 1\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95050F83-BD76-43A0-A04A-E729AECA296A}|B\u00E0i 1\\B\u00E0i 1.csproj|d:\\c# - unity\\ki\u1EC3m tra\\b\u00E0i 1\\b\u00E0i 1\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95050F83-BD76-43A0-A04A-E729AECA296A}|B\u00E0i 1\\B\u00E0i 1.csproj|solutionrelative:b\u00E0i 1\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95050F83-BD76-43A0-A04A-E729AECA296A}|B\u00E0i 1\\B\u00E0i 1.csproj|d:\\c# - unity\\ki\u1EC3m tra\\b\u00E0i 1\\b\u00E0i 1\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95050F83-BD76-43A0-A04A-E729AECA296A}|B\u00E0i 1\\B\u00E0i 1.csproj|solutionrelative:b\u00E0i 1\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95050F83-BD76-43A0-A04A-E729AECA296A}|B\u00E0i 1\\B\u00E0i 1.csproj|d:\\c# - unity\\ki\u1EC3m tra\\b\u00E0i 1\\b\u00E0i 1\\gameentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95050F83-BD76-43A0-A04A-E729AECA296A}|B\u00E0i 1\\B\u00E0i 1.csproj|solutionrelative:b\u00E0i 1\\gameentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95050F83-BD76-43A0-A04A-E729AECA296A}|B\u00E0i 1\\B\u00E0i 1.csproj|d:\\c# - unity\\ki\u1EC3m tra\\b\u00E0i 1\\b\u00E0i 1\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95050F83-BD76-43A0-A04A-E729AECA296A}|B\u00E0i 1\\B\u00E0i 1.csproj|solutionrelative:b\u00E0i 1\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95050F83-BD76-43A0-A04A-E729AECA296A}|B\u00E0i 1\\B\u00E0i 1.csproj|d:\\c# - unity\\ki\u1EC3m tra\\b\u00E0i 1\\b\u00E0i 1\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95050F83-BD76-43A0-A04A-E729AECA296A}|B\u00E0i 1\\B\u00E0i 1.csproj|solutionrelative:b\u00E0i 1\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95050F83-BD76-43A0-A04A-E729AECA296A}|B\u00E0i 1\\B\u00E0i 1.csproj|d:\\c# - unity\\ki\u1EC3m tra\\b\u00E0i 1\\b\u00E0i 1\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95050F83-BD76-43A0-A04A-E729AECA296A}|B\u00E0i 1\\B\u00E0i 1.csproj|solutionrelative:b\u00E0i 1\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95050F83-BD76-43A0-A04A-E729AECA296A}|B\u00E0i 1\\B\u00E0i 1.csproj|d:\\c# - unity\\ki\u1EC3m tra\\b\u00E0i 1\\b\u00E0i 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95050F83-BD76-43A0-A04A-E729AECA296A}|B\u00E0i 1\\B\u00E0i 1.csproj|solutionrelative:b\u00E0i 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Wizard.cs",
+              "DocumentMoniker": "D:\\C# - Unity\\Ki\u1EC3m Tra\\B\u00E0i 1\\B\u00E0i 1\\Wizard.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 1\\Wizard.cs",
+              "ToolTip": "D:\\C# - Unity\\Ki\u1EC3m Tra\\B\u00E0i 1\\B\u00E0i 1\\Wizard.cs",
+              "RelativeToolTip": "B\u00E0i 1\\Wizard.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T11:14:41.922Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\C# - Unity\\Ki\u1EC3m Tra\\B\u00E0i 1\\B\u00E0i 1\\Character.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 1\\Character.cs",
+              "ToolTip": "D:\\C# - Unity\\Ki\u1EC3m Tra\\B\u00E0i 1\\B\u00E0i 1\\Character.cs",
+              "RelativeToolTip": "B\u00E0i 1\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T11:25:47.47Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\C# - Unity\\Ki\u1EC3m Tra\\B\u00E0i 1\\B\u00E0i 1\\Enemy.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 1\\Enemy.cs",
+              "ToolTip": "D:\\C# - Unity\\Ki\u1EC3m Tra\\B\u00E0i 1\\B\u00E0i 1\\Enemy.cs",
+              "RelativeToolTip": "B\u00E0i 1\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:38:23.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\C# - Unity\\Ki\u1EC3m Tra\\B\u00E0i 1\\B\u00E0i 1\\Player.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 1\\Player.cs",
+              "ToolTip": "D:\\C# - Unity\\Ki\u1EC3m Tra\\B\u00E0i 1\\B\u00E0i 1\\Player.cs",
+              "RelativeToolTip": "B\u00E0i 1\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:08:45.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameEntity.cs",
+              "DocumentMoniker": "D:\\C# - Unity\\Ki\u1EC3m Tra\\B\u00E0i 1\\B\u00E0i 1\\GameEntity.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 1\\GameEntity.cs",
+              "ToolTip": "D:\\C# - Unity\\Ki\u1EC3m Tra\\B\u00E0i 1\\B\u00E0i 1\\GameEntity.cs",
+              "RelativeToolTip": "B\u00E0i 1\\GameEntity.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T11:58:47.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "D:\\C# - Unity\\Ki\u1EC3m Tra\\B\u00E0i 1\\B\u00E0i 1\\Mage.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 1\\Mage.cs",
+              "ToolTip": "D:\\C# - Unity\\Ki\u1EC3m Tra\\B\u00E0i 1\\B\u00E0i 1\\Mage.cs",
+              "RelativeToolTip": "B\u00E0i 1\\Mage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T11:54:28.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "D:\\C# - Unity\\Ki\u1EC3m Tra\\B\u00E0i 1\\B\u00E0i 1\\Warrior.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 1\\Warrior.cs",
+              "ToolTip": "D:\\C# - Unity\\Ki\u1EC3m Tra\\B\u00E0i 1\\B\u00E0i 1\\Warrior.cs",
+              "RelativeToolTip": "B\u00E0i 1\\Warrior.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T11:46:49.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# - Unity\\Ki\u1EC3m Tra\\B\u00E0i 1\\B\u00E0i 1\\Program.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 1\\Program.cs",
+              "ToolTip": "D:\\C# - Unity\\Ki\u1EC3m Tra\\B\u00E0i 1\\B\u00E0i 1\\Program.cs",
+              "RelativeToolTip": "B\u00E0i 1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T11:09:53.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

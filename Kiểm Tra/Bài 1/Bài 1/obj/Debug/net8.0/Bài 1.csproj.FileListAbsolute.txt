@@ -1,0 +1,5 @@
+D:\C# - Unity\Kiểm Tra\Bài 1\Bài 1\obj\Debug\net8.0\Bài 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Unity\Kiểm Tra\Bài 1\Bài 1\obj\Debug\net8.0\Bài 1.AssemblyInfoInputs.cache
+D:\C# - Unity\Kiểm Tra\Bài 1\Bài 1\obj\Debug\net8.0\Bài 1.AssemblyInfo.cs
+D:\C# - Unity\Kiểm Tra\Bài 1\Bài 1\obj\Debug\net8.0\Bài 1.csproj.CoreCompileInputs.cache
+D:\C# - Unity\Kiểm Tra\Bài 1\Bài 1\obj\Debug\net8.0\Bài 1.sourcelink.json
